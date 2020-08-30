@@ -3,7 +3,6 @@ def using_while
   while =< 10
   levitation_force +=
   
-  
 end
 
 
